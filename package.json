@@ -5,6 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "build": "0.1.4",
     "deploy": "1.0.3",
     "react": "17.0.0",
     "react-dom": "17.0.0",
